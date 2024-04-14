@@ -28,7 +28,7 @@
 },
 {
     "domain": ".github.com",
-    "expirationDate": 1744124187.684829,
+    "expirationDate": 1744389475.194866,
     "hostOnly": false,
     "httpOnly": true,
     "name": "dotcom_user",
@@ -82,7 +82,7 @@
 },
 {
     "domain": "github.com",
-    "expirationDate": 1713957807.058879,
+    "expirationDate": 1714063077.664167,
     "hostOnly": true,
     "httpOnly": true,
     "name": "__Host-user_session_same_site",
@@ -118,12 +118,12 @@
     "secure": true,
     "session": true,
     "storeId": "0",
-    "value": "A1Lzg2zzBuyps6HX9NlUFOaqZkKHptWahsAohjxMhxsMT3whQwm%2B0FuS%2FkLoJrf0ZQfiSKlUmpwiDKRbKRyfKTIc8uVpfHlPDfhaAHv2%2B0Jmqq25yJ20mLbn7hyKjvzQNkvwlf%2BR13hPV5KW8E7sBKQbHPfp1RR%2BtVDQS7XM8sktqWDn7YN3Vg0G6gewEnl5%2FU%2FpFWs2fWXfow7j7BD3c8x%2BXXKUM5h8lizbJo7jDcyMcKRLEEUFeS9hp4DoQADJLjq%2BpwHdn7SHEFTiuhoXzgVOMjw67S5%2Fk3qZlTZgRSWiINmrKP2qEwQ1gglmoLhSzglFXw%3D%3D--%2Bk0BmPkxaKHsDOvo--njAVfvL1VbIqiJeFQSnztA%3D%3D",
+    "value": "kEEiOj56bTEoh7ALlzP9rOzQgFVPByUa30VQqXTWAPRI2oYOupq8sWoENc26qnBs%2BSXV2fNrX2YvkWJ%2B9thR0jERlpPe0hetQnoIfNpW%2Fed06saFY7NITHODB8d95G1M2napnxojRqCf6Loc1beBmY7IoRmDW4MV%2FwWqt5t4xRixxcCCfxAJEuvZSVHc%2BSxZhDhoF%2FDlVveALQVzFOBoLmkgitIxOuu6jrfrhPKpsX60r%2FYtyPcGFjOl1dWNujiM3%2F1AXAZWPFK2OUGqdOPI9LRdVCknyjLUTEu5CfR%2F3jKHjbPg%2BOhe5kOJWA6giBNq%2FP9YSQ%3D%3D--Z2n5HfX%2F9PDUerll--6DbDCnAQ2LiMY%2BYsYHQ%2Fug%3D%3D",
     "id": 9
 },
 {
     "domain": "github.com",
-    "expirationDate": 1712751928.342929,
+    "expirationDate": 1713124228.452416,
     "hostOnly": true,
     "httpOnly": true,
     "name": "has_recent_activity",
@@ -151,7 +151,7 @@
 },
 {
     "domain": "github.com",
-    "expirationDate": 1713957807.058754,
+    "expirationDate": 1714063077.664047,
     "hostOnly": true,
     "httpOnly": true,
     "name": "user_session",
