@@ -1,119 +1,86 @@
 [
-    {
-        "key": "datr",
-        "value": "-yUkZvl3gLH8-_NJ7yiUlYwO",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-20T20:41:14.468Z",
-        "lastAccessed": "2024-04-20T20:41:14.469Z"
-    },
-    {
-        "key": "sb",
-        "value": "-yUkZn15v2FlaDlpFd7wlC2t",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-20T20:41:14.469Z",
-        "lastAccessed": "2024-04-20T20:41:14.469Z"
-    },
-    {
-        "key": "m_pixel_ratio",
-        "value": "2",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-20T20:41:14.469Z",
-        "lastAccessed": "2024-04-20T20:41:14.469Z"
-    },
-    {
-        "key": "ps_n",
-        "value": "1",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-20T20:41:14.469Z",
-        "lastAccessed": "2024-04-20T20:41:14.469Z"
-    },
-    {
-        "key": "ps_l",
-        "value": "1",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-20T20:41:14.469Z",
-        "lastAccessed": "2024-04-20T20:41:14.469Z"
-    },
-    {
-        "key": "wd",
-        "value": "360x666",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-20T20:41:14.469Z",
-        "lastAccessed": "2024-04-20T20:41:14.469Z"
-    },
-    {
-        "key": "fr",
-        "value": "0Nv3WyXVWHjgJXHDm.AWXAECtaQMbRxte6rn3T5zZXUD0.BmJCX7..AAA.0.0.BmJCZp.AWUM6PNg6oQ",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-20T20:41:14.469Z",
-        "lastAccessed": "2024-04-20T20:41:14.469Z"
-    },
-    {
-        "key": "c_user",
-        "value": "61556104964276",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-20T20:41:14.469Z",
-        "lastAccessed": "2024-04-20T20:41:14.469Z"
-    },
-    {
-        "key": "xs",
-        "value": "36%3ARqe2m_nKyYBnTw%3A2%3A1713645163%3A-1%3A15414",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-20T20:41:14.469Z",
-        "lastAccessed": "2024-04-20T20:41:14.469Z"
-    },
-    {
-        "key": "locale",
-        "value": "fr_FR",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-20T20:41:14.469Z",
-        "lastAccessed": "2024-04-20T20:41:14.469Z"
-    },
-    {
-        "key": "fbl_st",
-        "value": "100727758%3BT%3A28560752",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-20T20:41:14.469Z",
-        "lastAccessed": "2024-04-20T20:41:14.469Z"
-    },
-    {
-        "key": "wl_cbv",
-        "value": "v2%3Bclient_version%3A2472%3Btimestamp%3A1713645166",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-20T20:41:14.469Z",
-        "lastAccessed": "2024-04-20T20:41:14.469Z"
-    },
-    {
-        "key": "vpd",
-        "value": "v1%3B666x360x2",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-20T20:41:14.469Z",
-        "lastAccessed": "2024-04-20T20:41:14.469Z"
-    }
+{
+    "domain": ".chromewebstore.google.com",
+    "expirationDate": 1748274601.572425,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "GA1.1.701262254.1713646966",
+    "id": 1
+},
+{
+    "domain": ".chromewebstore.google.com",
+    "expirationDate": 1748274648.488442,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "_ga_KHZNC1Q6K0",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "GS1.1.1713714527.3.1.1713714648.0.0.0",
+    "id": 2
+},
+{
+    "domain": ".chromewebstore.google.com",
+    "expirationDate": 1748209241.542762,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "_ga_NZ9G8S1SL8",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "GS1.1.1713649086.1.1.1713649241.0.0.0",
+    "id": 3
+},
+{
+    "domain": ".google.com",
+    "expirationDate": 1729201227.590002,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "AEC",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "AQTF6HxU2bnc4da4_9Hv4H8UNEB063QYStFPgHyFRj2rtAygctIj5_091mM",
+    "id": 4
+},
+{
+    "domain": ".google.com",
+    "expirationDate": 1729525727.230169,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "NID",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "513=lChZEGG1wNtF487Dwp-vYNFD2Bx93e8Gk88eooMvyyt3i7_DoJ2DlKltMlXozLSA6misrS0xmV2tuxdTh__mIJe8yxwn0qmEXQ4yl8Yzb2wZ-mbbuz08LM1yoWquWdenuOLzgyzgDHaFPitCeDzVjZ0TyWWY6Uiuo-OqEDVEuJBzoW22Y0YScCbWx9sjPRA8nJRtEjH0rWkdw2cNnm5rn9I",
+    "id": 5
+},
+{
+    "domain": "chromewebstore.google.com",
+    "expirationDate": 1716238967,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "OTZ",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "7522383_56_56__56_",
+    "id": 6
+}
 ]
